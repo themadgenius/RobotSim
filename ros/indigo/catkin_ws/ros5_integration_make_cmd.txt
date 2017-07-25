@@ -1,0 +1,1 @@
+catkin_make -DCATKIN_WHITELIST_PACKAGES="ros_gem5_integration"
