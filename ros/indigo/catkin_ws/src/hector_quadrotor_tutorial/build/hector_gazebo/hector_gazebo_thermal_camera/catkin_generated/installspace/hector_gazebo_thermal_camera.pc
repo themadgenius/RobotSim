@@ -1,0 +1,8 @@
+prefix=/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/src/hector_quadrotor_tutorial/install
+
+Name: hector_gazebo_thermal_camera
+Description: Description of hector_gazebo_thermal_camera
+Version: 0.3.7
+Cflags: -I/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/src/hector_quadrotor_tutorial/install/include
+Libs: -L/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/src/hector_quadrotor_tutorial/install/lib 
+Requires: nodelet image_transport dynamic_reconfigure driver_base gazebo_plugins

@@ -1,0 +1,10 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/hector_quadrotor_pose_estimation.dir/src/main.cpp.o"
+  "/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/src/hector_quadrotor_tutorial/devel/lib/hector_quadrotor_pose_estimation/hector_quadrotor_pose_estimation.pdb"
+  "/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/src/hector_quadrotor_tutorial/devel/lib/hector_quadrotor_pose_estimation/hector_quadrotor_pose_estimation"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/hector_quadrotor_pose_estimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

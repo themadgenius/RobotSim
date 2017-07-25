@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!-- rolling_landscape_120m.world -->
+<!-- empty -->
+<!-- test.world -->
+<!--
+   <arg name="world" value="$(find hector_gazebo_worlds)/worlds/test.world"/> 
+-->
+<launch>
+  <include file="$(find hector_gazebo_worlds)/launch/start.launch">
+   <arg name="world" value="$(find hector_gazebo_worlds)/worlds/gas_station.world"/> 
+  </include>
+
+</launch>
