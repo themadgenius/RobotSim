@@ -1,0 +1,8 @@
+prefix=/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws
+
+Name: ros_gem5_integration
+Description: Description of ros_gem5_integration
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/lib 
+Requires: 
