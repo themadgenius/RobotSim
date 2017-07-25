@@ -1,0 +1,84 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7000
+warn: ClockedObject: More than one power state change request encountered within the same simulation tick
+warn: Process mapping virtual address 0xa0000000 to physical address 0x80000000, size= 5760056, cacheable = 0
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/madgenius/projects/RobotSim/gem5/tests/test-progs/imp-ocv-ros/bin/arm/linux/imp-ocv-ros'
+Starting program
+OpenCV version: 2.4.10
+(EXE) Camera resolution set to 80x60
+(EXE) Camera successfullly initialized
+(EXE) Camera capture: ON 
+(ROS)[1] Gem5 execution time[5e+06 ns]: 61800000 ns (simulation time).
+(ROS) Callback for camera frame [9755]: 
+(ROS) Frame 9755 image buffer ptr 0x0x7f41d3280018 
+(ROS)[2] Gem5 execution time[5e+06 ns]: 66000000 ns (simulation time).
+(ROS)[3] Gem5 execution time[5e+06 ns]: 70300000 ns (simulation time).
+(ROS)[4] Gem5 execution time[5e+06 ns]: 67000000 ns (simulation time).
+(ROS)[5] Gem5 execution time[5e+06 ns]: 64700000 ns (simulation time).
+(ROS)[6] Gem5 execution time[5e+06 ns]: 64000000 ns (simulation time).
+(ROS)[7] Gem5 execution time[5e+06 ns]: 68600000 ns (simulation time).
+(ROS)[8] Gem5 execution time[5e+06 ns]: 59200000 ns (simulation time).
+(ROS) Callback for camera frame [9786]: 
+(ROS) Frame 9786 image buffer ptr 0x0x7f41d3280018 
+(ROS)[9] Gem5 execution time[5e+06 ns]: 78300000 ns (simulation time).
+(ROS)[10] Gem5 execution time[5e+06 ns]: 79700000 ns (simulation time).
+(ROS)[11] Gem5 execution time[5e+06 ns]: 84200000 ns (simulation time).
+(ROS)[12] Gem5 execution time[5e+06 ns]: 79500000 ns (simulation time).
+(ROS)[13] Gem5 execution time[5e+06 ns]: 82200000 ns (simulation time).
+(ROS)[14] Gem5 execution time[5e+06 ns]: 88400000 ns (simulation time).
+(ROS)[15] Gem5 execution time[5e+06 ns]: 58100000 ns (simulation time).
+(ROS) Callback for camera frame [9802]: 
+(ROS) Frame 9802 image buffer ptr 0x0x7f41d3280018 
+(ROS)[16] Gem5 execution time[5e+06 ns]: 80700000 ns (simulation time).
+(ROS)[17] Gem5 execution time[5e+06 ns]: 78900000 ns (simulation time).
+(ROS)[18] Gem5 execution time[5e+06 ns]: 84000000 ns (simulation time).
+(ROS)[19] Gem5 execution time[5e+06 ns]: 80700000 ns (simulation time).
+(ROS)[20] Gem5 execution time[5e+06 ns]: 79800000 ns (simulation time).
+(ROS)[21] Gem5 execution time[5e+06 ns]: 77400000 ns (simulation time).
+(ROS)[22] Gem5 execution time[5e+06 ns]: 63400000 ns (simulation time).
+(ROS) Callback for camera frame [9818]: 
+(ROS) Frame 9818 image buffer ptr 0x0x7f41d3280018 
+(ROS)[23] Gem5 execution time[5e+06 ns]: 80300000 ns (simulation time).
+(ROS)[24] Gem5 execution time[5e+06 ns]: 76800000 ns (simulation time).
+(ROS)[25] Gem5 execution time[5e+06 ns]: 85000000 ns (simulation time).
+(ROS)[26] Gem5 execution time[5e+06 ns]: 92700000 ns (simulation time).
+(ROS)[27] Gem5 execution time[5e+06 ns]: 80200000 ns (simulation time).
+(ROS)[28] Gem5 execution time[5e+06 ns]: 80900000 ns (simulation time).
+(ROS)[29] Gem5 execution time[5e+06 ns]: 61600000 ns (simulation time).
+(ROS) Callback for camera frame [9835]: 
+(ROS) Frame 9835 image buffer ptr 0x0x7f41d3280018 
+(ROS)[30] Gem5 execution time[5e+06 ns]: 77500000 ns (simulation time).
+(ROS)[31] Gem5 execution time[5e+06 ns]: 81100000 ns (simulation time).
+(ROS)[32] Gem5 execution time[5e+06 ns]: 78700000 ns (simulation time).
+(ROS)[33] Gem5 execution time[5e+06 ns]: 80200000 ns (simulation time).
+(ROS)[34] Gem5 execution time[5e+06 ns]: 82400000 ns (simulation time).
+(ROS)[35] Gem5 execution time[5e+06 ns]: 78700000 ns (simulation time).
+(ROS)[36] Gem5 execution time[5e+06 ns]: 60100000 ns (simulation time).
+(ROS) Callback for camera frame [9851]: 
+(ROS) Frame 9851 image buffer ptr 0x0x7f41d3280018 
+(ROS)[37] Gem5 execution time[5e+06 ns]: 77700000 ns (simulation time).
+(ROS)[38] Gem5 execution time[5e+06 ns]: 82700000 ns (simulation time).
+(ROS)[39] Gem5 execution time[5e+06 ns]: 78400000 ns (simulation time).
+(ROS)[40] Gem5 execution time[5e+06 ns]: 78900000 ns (simulation time).
+(ROS)[41] Gem5 execution time[5e+06 ns]: 85100000 ns (simulation time).
+(ROS)[42] Gem5 execution time[5e+06 ns]: 79200000 ns (simulation time).
+(ROS)[43] Gem5 execution time[5e+06 ns]: 58500000 ns (simulation time).
+(ROS) Callback for camera frame [9867]: 
+(ROS) Frame 9867 image buffer ptr 0x0x7f41d3280018 
+(ROS)[44] Gem5 execution time[5e+06 ns]: 76100000 ns (simulation time).
+(ROS)[45] Gem5 execution time[5e+06 ns]: 81700000 ns (simulation time).
+(ROS)[46] Gem5 execution time[5e+06 ns]: 80700000 ns (simulation time).
+(ROS)[47] Gem5 execution time[5e+06 ns]: 79800000 ns (simulation time).
+(ROS)[48] Gem5 execution time[5e+06 ns]: 84800000 ns (simulation time)(EXE) Camera capture: OFF 
+(EXE) Camera buffers not deleted during deinit.
+Simulated elapsed time: 360983411 ns 
+27.7021 fps
+(EXE) Chris is cool! 

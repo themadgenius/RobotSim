@@ -1,0 +1,13 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7000
+warn: ClockedObject: More than one power state change request encountered within the same simulation tick
+warn: Process mapping virtual address 0xa0000000 to physical address 0x80000000, size= 5760056, cacheable = 0
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/madgenius/projects/RobotSim/gem5/tests/test-progs/imp-ocv-ros/bin/arm/linux/imp-ocv-ros'

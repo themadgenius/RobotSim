@@ -1,0 +1,50 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7000
+warn: ClockedObject: More than one power state change request encountered within the same simulation tick
+warn: Process mapping virtual address 0xa0000000 to physical address 0x80000000, size= 5760056, cacheable = 0
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/madgenius/projects/RobotSim/gem5/tests/test-progs/imp-ocv-ros/bin/arm/linux/imp-ocv-ros'
+Starting program
+OpenCV version: 2.4.10
+(EXE) Camera successfullly initialized
+(EXE) Camera capture: ON 
+(EXE) Entering read_frame
+(EXE) Reading frame [3729] from camera 
+(EXE) Reading 14400 bytes from hardware frame buffer.
+(EXE) Done reading hardware frame buffer.
+(EXE) Processing frame 3729.
+(EXE) Entering process frame
+(EXE) Converting image to grayscale. 
+(ROS)[1] Gem5 execution time[5e+06 ns]: 52900000 ns (simulation time).
+(ROS) Callback for camera frame [3729]: 
+(ROS) Frame 3729 image buffer ptr 0x0x7fd726a7f018 
+info: Increasing stack size by one page.
+(EXE) Conversion to grayscale complete. 
+(EXE) Finding corners. 
+(EXE) Drawing keypoints. 
+(EXE) 0 corners detected
+(EXE) Saving frame 
+(EXE) Entering read_frame
+(EXE) Reading frame [3747] from camera 
+(EXE) Reading 14400 bytes from hardware frame buffer.
+(EXE) Done reading hardware frame buffer.
+(EXE) Processing frame 3747.
+(EXE) Entering process frame
+(EXE) Converting image to grayscale. 
+(EXE) Conversion to grayscale complete. 
+(EXE) Finding corners. 
+(EXE) Drawing keypoints. 
+(EXE) 0 corners detected
+(EXE) Saving frame 
+(EXE) Camera capture: OFF 
+(EXE) Camera buffers not deleted during deinit.
+Simulated elapsed time: 21089668 ns 
+94.8332 fps
+(EXE) Chris is cool! 

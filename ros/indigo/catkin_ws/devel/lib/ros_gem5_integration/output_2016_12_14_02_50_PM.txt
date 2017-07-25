@@ -1,0 +1,106 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+0: system.remote_gdb.listener: listening for remote gdb #0 on port 7000
+warn: ClockedObject: More than one power state change request encountered within the same simulation tick
+warn: Process mapping virtual address 0xa0000000 to physical address 0x80000000, size= 5760056, cacheable = 0
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+warn: readlink() called on '/proc/self/exe' may yield unexpected results in various settings.
+      Returning '/home/madgenius/projects/RobotSim/gem5/tests/test-progs/imp-ocv-ros/bin/arm/linux/imp-ocv-ros'
+Starting program
+(EXE) Camera successfullly initialized
+(EXE) Camera capture: ON 
+(ROS)[1] Gem5 execution time[5e+06 ns]: 56300000 ns (simulation time).
+(ROS) Callback for camera frame [0]: 
+(ROS) Frame 0 image buffer ptr 0x0x7f510424d018 
+(ROS) Callback for camera frame [1]: 
+(ROS) Frame 1 image buffer ptr 0x0x7f51043080a0 
+(ROS) Callback for camera frame [2]: 
+(ROS) Frame 2 image buffer ptr 0x0x7f51043c3128 
+(ROS) Callback for camera frame [3]: 
+(ROS) Frame 3 image buffer ptr 0x0x7f510447e1b0 
+warn: Drone Camera: Attempting read to frame buffer ram unknown packet size. Ignoring.
+(EXE) Frame [0] data pointer 0xa0000018
+(EXE) Frame [0] buffer offset 0
+(EXE) Frame [1] data pointer 0xa00bb0a0
+(EXE) Frame [1] buffer offset 766088
+(EXE) Frame [2] data pointer 0xa0176128
+(EXE) Frame [2] buffer offset 1532176
+(EXE) Frame [3] data pointer 0xa02311b0
+(EXE) Frame [3] buffer offset 2298264
+(EXE) Frame [17] data pointer 0xa0000018
+(EXE) Frame [17] buffer offset 0
+(EXE) Frame [18] data pointer 0xa00bb0a0
+(EXE) Frame [18] buffer offset 766088
+(EXE) Entering process frame
+(EXE) Converting image to grayscale. 
+(ROS)[2] Gem5 execution time[5e+06 ns]: 58800000 ns (simulation time).
+(ROS) Callback for camera frame [17]: 
+(ROS) Frame 17 image buffer ptr 0x0x7f510424d018 
+(ROS) Callback for camera frame [18]: 
+(ROS) Frame 18 image buffer ptr 0x0x7f51043080a0 
+info: Increasing stack size by one page.
+(ROS)[3] Gem5 execution time[5e+06 ns]: 68700000 ns (simulation time).
+(ROS) Callback for camera frame [19]: 
+(ROS) Frame 19 image buffer ptr 0x0x7f51043c3128 
+(ROS) Callback for camera frame [20]: 
+(ROS) Frame 20 image buffer ptr 0x0x7f510447e1b0 
+(ROS)[4] Gem5 execution time[5e+06 ns]: 71700000 ns (simulation time).
+(ROS) Callback for camera frame [21]: 
+(ROS) Frame 21 image buffer ptr 0x0x7f510424d018 
+(ROS)[5] Gem5 execution time[5e+06 ns]: 71000000 ns (simulation time).
+(ROS)[6] Gem5 execution time[5e+06 ns]: 70800000 ns (simulation time).
+(ROS)[7] Gem5 execution time[5e+06 ns]: 70900000 ns (simulation time).
+(ROS)[8] Gem5 execution time[5e+06 ns]: 70700000 ns (simulation time).
+(ROS)[9] Gem5 execution time[5e+06 ns]: 69400000 ns (simulation time).
+(ROS)[10] Gem5 execution time[5e+06 ns]: 69600000 ns (simulation time).
+(ROS)[11] Gem5 execution time[5e+06 ns]: 71300000 ns (simulation time).
+(ROS)[12] Gem5 execution time[5e+06 ns]: 70100000 ns (simulation time).
+(ROS)[13] Gem5 execution time[5e+06 ns]: 70300000 ns (simulation time).
+(ROS)[14] Gem5 execution time[5e+06 ns]: 71000000 ns (simulation time).
+(ROS)[15] Gem5 execution time[5e+06 ns]: 67800000 ns (simulation time).
+(ROS)[16] Gem5 execution time[5e+06 ns]: 66900000 ns (simulation time).
+(ROS)[17] Gem5 execution time[5e+06 ns]: 70000000 ns (simulation time).
+(ROS)[18] Gem5 execution time[5e+06 ns]: 71100000 ns (simulation time).
+(ROS)[19] Gem5 execution time[5e+06 ns]: 69700000 ns (simulation time).
+(ROS)[20] Gem5 execution time[5e+06 ns]: 70700000 ns (simulation time).
+(ROS)[21] Gem5 execution time[5e+06 ns]: 70500000 ns (simulation time).
+(ROS)[22] Gem5 execution time[5e+06 ns]: 70900000 ns (simulation time).
+(ROS)[23] Gem5 execution time[5e+06 ns]: 71100000 ns (simulation time).
+(ROS)[24] Gem5 execution time[5e+06 ns]: 72500000 ns (simulation time).
+(ROS)[25] Gem5 execution time[5e+06 ns]: 69000000 ns (simulation time).
+(ROS)[26] Gem5 execution time[5e+06 ns]: 71400000 ns (simulation time).
+(ROS)[27] Gem5 execution time[5e+06 ns]: 69200000 ns (simulation time).
+(ROS)[28] Gem5 execution time[5e+06 ns]: 68900000 ns (simulation time).
+(ROS)[29] Gem5 execution time[5e+06 ns]: 69900000 ns (simulation time).
+(ROS)[30] Gem5 execution time[5e+06 ns]: 72300000 ns (simulation time).
+(ROS)[31] Gem5 execution time[5e+06 ns]: 71800000 ns (simulation time).
+(ROS)[32] Gem5 execution time[5e+06 ns]: 68600000 ns (simulation time).
+(ROS)[33] Gem5 execution time[5e+06 ns]: 70600000 ns (simulation time).
+(ROS)[34] Gem5 execution time[5e+06 ns]: 69900000 ns (simulation time).
+(ROS)[35] Gem5 execution time[5e+06 ns]: 72400000 ns (simulation time).
+(ROS)[36] Gem5 execution time[5e+06 ns]: 70500000 ns (simulation time).
+(ROS)[37] Gem5 execution time[5e+06 ns]: 72300000 ns (simulation time).
+(ROS)[38] Gem5 execution time[5e+06 ns]: 71900000 ns (simulation time).
+(ROS)[39] Gem5 execution time[5e+06 ns]: 72900000 ns (simulation time).
+(ROS)[40] Gem5 execution time[5e+06 ns]: 71100000 ns (simulation time).
+(ROS)[41] Gem5 execution time[5e+06 ns]: 73000000 ns (simulation time).
+(ROS)[42] Gem5 execution time[5e+06 ns]: 72200000 ns (simulation time).
+(ROS)[43] Gem5 execution time[5e+06 ns]: 71500000 ns (simulation time).
+(ROS)[44] Gem5 execution time[5e+06 ns]: 71900000 ns (simulation time).
+(ROS)[45] Gem5 execution time[5e+06 ns]: 71100000 ns (simulation time).
+(ROS)[46] Gem5 execution time[5e+06 ns]: 71600000 ns (simulation time).
+(ROS)[47] Gem5 execution time[5e+06 ns]: 73200000 ns (simulation time).
+(ROS)[48] Gem5 execution time[5e+06 ns]: 72100000 ns (simulation time).
+(ROS)[49] Gem5 execution time[5e+06 ns]: 71800000 ns (simulation time).
+(ROS)[50] Gem5 execution time[5e+06 ns]: 73100000 ns (simulation time).
+(ROS)[51] Gem5 execution time[5e+06 ns]: 68700000 ns (simulation time).
+(ROS)[52] Gem5 execution time[5e+06 ns]: 70600000 ns (simulation time).
+(ROS)[53] Gem5 execution time[5e+06 ns]: 70900000 ns (simulation time).
+(ROS)[54] Gem5 execution time[5e+06 ns]: 70400000 ns (simulation time).
+(ROS)[55] Gem5 execution time[5e+06 ns]: 71100000 ns (simulation time).
+(ROS)[56] Gem5 execu
