@@ -1,0 +1,10 @@
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/_setup_util.py
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/env.sh
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/setup.bash
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/setup.sh
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/setup.zsh
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/.rosinstall
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/lib/pkgconfig/ros_gem5_integration.pc
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/share/ros_gem5_integration/cmake/ros_gem5_integrationConfig.cmake
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/share/ros_gem5_integration/cmake/ros_gem5_integrationConfig-version.cmake
+/home/madgenius/projects/RobotSim/ros/indigo/catkin_ws/share/ros_gem5_integration/package.xml
