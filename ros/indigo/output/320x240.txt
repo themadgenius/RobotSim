@@ -1,0 +1,102 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+Starting program
+OpenCV version: 2.4.10
+(EXE) Camera resolution set to 320x240
+(EXE) Camera successfullly initialized
+(EXE) Camera capture: ON 
+Beginning main image capture loop
+[0m[ INFO] [1497250541.184701289, 400.297000000]: (ROS) Callback for camera frame [2169][0m
+(ROS) Frame 2169 image buffer ptr 0x0x7f18bb280018 
+(EXE) Reading frame [2169] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+info: Increasing stack size by one page.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+455.413 fps
+[0m[ INFO] [1497250669.490644202, 400.333000000]: (ROS) Callback for camera frame [2170][0m
+(ROS) Frame 2170 image buffer ptr 0x0x7f18bb2b8420 
+(EXE) Reading frame [2170] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+497.887 fps
+[0m[ INFO] [1497250823.455244850, 400.378000000]: (ROS) Callback for camera frame [2171][0m
+(ROS) Frame 2171 image buffer ptr 0x0x7f18bb280018 
+(EXE) Reading frame [2171] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+339.787 fps
+[0m[ INFO] [1497250882.039034329, 400.390000000]: (ROS) Callback for camera frame [2172][0m
+(ROS) Frame 2172 image buffer ptr 0x0x7f18bb2b8420 
+(EXE) Reading frame [2172] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.447 fps
+[0m[ INFO] [1497251065.187601275, 400.426000000]: (ROS) Callback for camera frame [2173][0m
+(ROS) Frame 2173 image buffer ptr 0x0x7f18bb280018 
+(EXE) Reading frame [2173] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.494 fps
+[0m[ INFO] [1497251218.367619647, 400.463000000]: (ROS) Callback for camera frame [2174][0m
+(ROS) Frame 2174 image buffer ptr 0x0x7f18bb2b8420 
+(EXE) Reading frame [2174] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+335.261 fps
+[0m[ INFO] [1497251342.753672452, 400.498000000]: (ROS) Callback for camera frame [2175][0m
+(ROS) Frame 2175 image buffer ptr 0x0x7f18bb280018 
+(EXE) Reading frame [2175] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.585 fps
+[0m[ INFO] [1497251461.896683816, 400.530000000]: (ROS) Callback for camera frame [2176][0m
+(ROS) Frame 2176 image buffer ptr 0x0x7f18bb2b8420 
+(EXE) Reading frame [2176] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.441 fps
+[0m[ INFO] [1497251588.818782130, 400.564000000]: (ROS) Callback for camera frame [2177][0m
+(ROS) Frame 2177 image buffer ptr 0x0x7f18bb280018 
+(EXE) Reading frame [2177] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.394 fps
+[0m[ INFO] [1497251712.033719084, 400.592000000]: (ROS) Callback for camera frame [2178][0m
+(ROS) Frame 2178 image buffer ptr 0x0x7f18bb2b8420 
+(EXE) Reading frame [2178] from camera 
+(EXE) Reading 230400 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 77 corners detected
+499.599 fps
+(EXE) Camera capture: OFF 
+(EXE) Camera buffers not deleted during deinit.
+Simulated elapsed time (c++): 22180954 ns 
+Simulated elapsed time (c): 0.02218 s 
+450.837 fps (average c++)
+450.857 fps (average c)
+(EXE) Chris is cool! 

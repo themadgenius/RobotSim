@@ -1,0 +1,84 @@
+============================================================
+EventQueue Dump  (cycle 0)
+------------------------------------------------------------
+<No Events>
+============================================================
+Using functional page table located in memory
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+Starting program
+OpenCV version: 2.4.10
+(EXE) Camera resolution set to 160x120
+(EXE) Camera successfullly initialized
+(EXE) Camera capture: ON 
+Beginning main image capture loop
+(EXE) Reading frame [1908] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+[0m[ INFO] [1497237432.687491233, 386.601000000]: (ROS) Callback for camera frame [1908][0m
+(ROS) Frame 1908 image buffer ptr 0x0x7ff1ab280018 
+info: Increasing stack size by one page.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+883.554 fps
+(EXE) Reading frame [1909] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+1034.42 fps
+(EXE) Reading frame [1910] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+1007.06 fps
+(EXE) Reading frame [1911] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+1004.35 fps
+(EXE) Reading frame [1912] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+333.702 fps
+(EXE) Reading frame [1913] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+500.984 fps
+(EXE) Reading frame [1914] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+500.885 fps
+(EXE) Reading frame [1915] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+333.692 fps
+(EXE) Reading frame [1916] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+1003.63 fps
+(EXE) Reading frame [1917] from camera 
+(EXE) Reading 57600 bytes from hardware frame buffer.
+(EXE) Finding corners. 
+(EXE) Calculating descriptors. 
+(EXE) 59 corners detected
+333.707 fps
+(EXE) Camera capture: OFF 
+(EXE) Camera buffers not deleted during deinit.
+Simulated elapsed time (c++): 18104496 ns 
+Simulated elapsed time (c): 0.018105 s 
+552.349 fps (average c++)
+552.334 fps (average c)
+(EXE) Chris is cool! 
